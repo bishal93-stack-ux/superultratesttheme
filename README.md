@@ -1,1 +1,2 @@
-# superultratesttheme practice purpose
+# superultratheme_test
+This is for test purpose.
